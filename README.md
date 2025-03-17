@@ -1,2 +1,2 @@
-# UTFPR (1st Year)
-Repository intended for codes produced during the first year of Computer Science in Universidade Tecnológica Federal do Paraná. In the first year the subjects were: -Algorithms (Programming Logic): basic exercises in the C language to demonstrate basic programming concepts. -Logic for Computing: exercises in Prolog and Python, introduction of Agents.
+# UTFPR (1st/2nd Year)
+Repository for code produced during the first and second year of the Computer Science course at the Federal Technological University of Paraná. In the first year, the subjects were: -Algorithms (Programming Logic): basic exercises in C language to demonstrate basic programming concepts. -Logic for Computing: exercises in Prolog and Python, introduction to Agents. In the second year, Numerical Calculus (where I made algorithms in C# for each of the subjects studied).
