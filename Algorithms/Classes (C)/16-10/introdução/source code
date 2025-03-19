@@ -1,0 +1,12 @@
+/*Desvios incondicionais*/
+#include <stdio.h>
+
+int main ()
+{
+  printf ("Hello World");
+
+  return 0;
+}
+
+//return e goto (em qualquer lugar)
+//break e continue (em qualquer estrutura de laC'o)

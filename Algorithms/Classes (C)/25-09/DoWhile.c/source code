@@ -1,0 +1,37 @@
+/*Estrutura de repetição no final
+
+DO ... WHILE
+
+teste é realizado no final
+
+
+  
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    printf("Digiete um valor");
+    
+//    int valor = 0 //era uma gambiarra
+
+    int valor;
+    do
+    {
+        printf("Digte um valor de credito ou debito");
+        scanf("%d", &valor);
+    } while (valor ==0);
+    
+    //certeza que por pelo menos um vez a estrutura vai seexecutada
+    // do while repete enquanto a condição é VERDADEIRA
+    //do while tem ; no final, pois se a condição é falsa, tem mais linhas para serem executadas
+    
+    if (valor >0)
+        printf("é crédito");
+    else
+        printf("é debito")
+    
+    
+
+    return 0;
+}
